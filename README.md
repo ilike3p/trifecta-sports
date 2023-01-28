@@ -1,27 +1,23 @@
 # Trifecta-Sports
 
+# User Story
 
-Description:
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
 
-Horiseon provides customers with a search engine to find, refine, and build the customer profiles for their business.
+# Acceptance Criteria
 
-Functions:
-
-Online Reputation Management: 
-    - Provides the control over what potential customers see when they search for your business.
-
-Social Media Marketing:
-    - Helps determine which platforms are suited to your brand, using analytics to find the right markets and increase your lead generation. 
-
-Should you have any questions, please feel free to contact us.
-    Address: 123 Golden Gate Avenue, San Francisco, CA 94102
-    Email: support@horiseon.com
-    Phone: 888-Horison or 888-467-4766
-
-## End Goal:
-
-Updated SEO, and stuctured for today and future expansion thats easy to read and detailed from original, to current, and expansion for. the next 20 years.
-
-## Acknowledgements
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
 
 - Tray Pearce
